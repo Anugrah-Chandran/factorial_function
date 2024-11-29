@@ -9,4 +9,4 @@ def factorial(num):
 
 num = int(input("Enter a number: "))
 factorial(num)
-print(factorial(num))
+print("The factorial of the number is",factorial(num))
